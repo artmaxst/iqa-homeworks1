@@ -58,3 +58,6 @@
 
 
 # Решение:
+[Задание 1](https://github.com/artmaxst/iqa-homeworks1/blob/main/задание%20№1.pdf)
+
+[Дополнительная задача*](https://github.com/artmaxst/iqa-homeworks1/blob/main/Задание%201.pdf)
