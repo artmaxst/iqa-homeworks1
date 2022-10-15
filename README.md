@@ -58,6 +58,6 @@
 
 
 # Решение:
-[Задание 1](https://github.com/artmaxst/iqa-homeworks1/blob/main/задание%20№1.pdf)
+[Задание 1](https://github.com/artmaxst/iqa-homeworks1/blob/3037277a5f00b135302ef2d4807da86fb0be3677/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.pdf)
 
-[Дополнительная задача*](https://github.com/artmaxst/iqa-homeworks1/blob/main/Задание%201.pdf)
+[Дополнительная задача*](https://github.com/artmaxst/iqa-homeworks1/blob/3037277a5f00b135302ef2d4807da86fb0be3677/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.1.(_).pdf)
